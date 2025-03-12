@@ -11,7 +11,8 @@ body {
 
 .post-header {
     display: flex;
-    padding: 15px 15px 10px 15px;
+    padding: 15px;
+    align-items: center;
 }
 .post-header p {
     margin: 0;
